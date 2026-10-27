@@ -102,3 +102,7 @@ Tick every metadata block you want visible on the article page. Unchecked items 
 - **A colour change is not visible** — clear the OJS template cache and your browser cache.
 - **A category does not appear on the homepage** — confirm it has at least one published article assigned; categories with no published submissions are skipped automatically.
 - **A library image dropdown is empty** — upload the file in the Publisher Library and reload the customize page.
+
+## Maintenance
+
+This theme is maintained by PKP Publishing Services.
